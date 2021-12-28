@@ -95,6 +95,3 @@ while run:
             print("Spiel ist unentschieden ausgegangen!")
             run = False
         change_player()
-
-
-print("Viel Spaß beim Python programmieren ^^")
